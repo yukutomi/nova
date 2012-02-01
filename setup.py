@@ -22,6 +22,8 @@ import os
 
 from setuptools import find_packages
 
+#add comment by yukutomi
+
 # In order to run the i18n commands for compiling and
 # installing message catalogs, we use DistUtilsExtra.
 # Don't make this a hard requirement, but warn that
